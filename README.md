@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DineshJadhav178
-- 👀 I’m interested in Networking field.
-- 🌱 I’m currently learning BSS in networking 
+- 👀 I’m interested to make my career in DevOps technology
+- 🌱 I have taken 90Days Challenge to complete it and learn as soon as possible.
 - 💞️ I’m looking to collaborate where I can see tremendous challenges and opportunities
 - 📫 How to reach me?:- By jdinesh178@gmail.com or linkdien
 
